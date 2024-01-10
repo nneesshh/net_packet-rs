@@ -1,0 +1,9 @@
+[submodule "bytes"]
+	path = bytes
+	url = https://github.com/nneesshh/bytes
+[submodule "opool"]
+	path = opool
+	url = https://github.com/nneesshh/opool
+[submodule "parking_lot"]
+	path = parking_lot
+	url = https://github.com/nneesshh/parking_lot
