@@ -13,9 +13,9 @@ panic = "abort"
 
 [dependencies]
 lazy_static = "1"
-bytes = { path = "bytes" }
+bytes = "1"
+parking_lot = "*"
 opool = { path = "opool" }
-parking_lot = { path = "parking_lot" }
 
 #[dev-dependencies]
 
