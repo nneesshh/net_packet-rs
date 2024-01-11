@@ -1,6 +1,3 @@
-[submodule "bytes"]
-	path = bytes
-	url = https://github.com/nneesshh/bytes
 [submodule "opool"]
 	path = opool
 	url = https://github.com/nneesshh/opool
